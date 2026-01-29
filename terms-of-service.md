@@ -35,6 +35,15 @@ Mirrorly is a virtual try-on application that uses artificial intelligence to sh
 - We cannot process refunds directly
 - If an AI processing error occurs, your credit will be automatically refunded
 
+### Device-Bound Credits
+- **Credits are linked to your device**, not to an account or email
+- Your device is identified by a unique anonymous identifier stored securely on your device
+- **If you delete and reinstall the App**, your credits will be restored (device identifier persists)
+- **If you switch to a new device**, credits cannot be transferred
+- **If you factory reset your device**, credits will be lost permanently
+- We recommend using all credits before changing devices
+- **We are not responsible for credits lost due to device changes or factory resets**
+
 ---
 
 ## User Content

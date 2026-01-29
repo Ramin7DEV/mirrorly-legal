@@ -13,7 +13,10 @@ By using Mirrorly, you agree to the collection and use of information in accorda
 ## Information We Collect
 
 ### Device Information
-- **Device Identifier**: We generate a unique anonymous identifier stored securely on your device to provide our services. This identifier is not linked to your personal identity.
+- **Device Identifier**: We generate a unique anonymous identifier stored securely in your device's Keychain to provide our services
+- This identifier is **not linked to your personal identity** (no email, name, or account required)
+- The identifier **persists even if you delete and reinstall the App**
+- If you change devices or factory reset, a new identifier is created and previous data cannot be accessed
 
 ### Usage Data
 - **Try-On History**: Images you upload and virtual try-on results are stored to provide you with your wardrobe history.
