@@ -113,7 +113,7 @@ We may update these Terms at any time. Continued use of the App after changes co
 
 ## Governing Law
 
-These Terms are governed by the laws of Azerbaijan. Any disputes shall be resolved in the courts of Baku, Azerbaijan.
+These Terms shall be governed by and construed in accordance with the laws applicable in your jurisdiction. Any disputes arising from these Terms or your use of the App shall be resolved in accordance with the dispute resolution mechanisms available in your country of residence.
 
 ---
 
