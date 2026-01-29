@@ -1,0 +1,11 @@
+# Jekyll Configuration for Mirrorly Legal Pages
+title: Mirrorly
+description: Virtual Try-On iOS App
+
+# Hide repository name header
+show_downloads: false
+
+# Use minimal theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
