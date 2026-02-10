@@ -16,6 +16,9 @@ Mirrorly is a virtual try-on application that uses artificial intelligence to sh
 - Generate AI-powered virtual try-on results
 - Save and manage your try-on history
 
+**Connectivity Requirement:**
+The App requires a stable and active internet connection to function. Features will not be available offline.
+
 ---
 
 ## Credits and Payments
@@ -33,7 +36,9 @@ Mirrorly is a virtual try-on application that uses artificial intelligence to sh
 ### Refunds
 - Refund requests must be submitted through Apple
 - We cannot process refunds directly
-- If an AI processing error occurs, your credit will be automatically refunded
+- We cannot process refunds directly
+- **System Errors**: If a technical error occurs (e.g., server crash), your credit will be automatically refunded.
+- **Quality Disputes**: Credits are deducted for the *attempt* to generate an image. We do not refund credits for results you are simply unsatisfied with (e.g., artifacts, unexpected styling), provided the system functioned correctly.
 
 ### Device-Bound Credits
 - **Credits are linked to your device**, not to an account or email
@@ -87,12 +92,17 @@ You agree NOT to upload:
 ### AI Results
 - Virtual try-on results are AI-generated approximations
 - Results may not perfectly represent actual appearance
+- Virtual try-on results are AI-generated approximations
+- Results may not perfectly represent actual appearance
 - We do not guarantee accuracy of color, fit, or style
+- **AI Artifacts**: You acknowledge that AI may occasionally produce artifacts, hallucinations, or distortions. These are inherent limitations of the technology and are not considered system failures.
 
 ### Service Availability
 - We strive for 99% uptime but cannot guarantee it
 - The service may be interrupted for maintenance
+- The service may be interrupted for maintenance
 - AI processing times may vary
+- **Strict Security Mode**: The App employs strict security checks at launch. Access will be blocked if a secure server connection cannot be established or if security risks (e.g., modified app binary, insecure network) are detected.
 
 ---
 
@@ -120,9 +130,15 @@ We may update these Terms at any time. Continued use of the App after changes co
 
 ---
 
+## Service Modification & Termination
+
+We reserve the right to modify, suspend, or discontinue the App (or any part thereof) at any time with or without notice. You agree that we shall not be liable to you or to any third party for any modification, suspension, or discontinuance of the App. In the event of a permanent shutdown, we are not obligated to refund unused credits, though we will make reasonable efforts to provide advance notice.
+
+---
+
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws applicable in your jurisdiction. Any disputes arising from these Terms or your use of the App shall be resolved in accordance with the dispute resolution mechanisms available in your country of residence.
+These Terms shall be governed by and construed in accordance with the laws of the **Republic of Azerbaijan**, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of the App shall be resolved exclusively in the courts of **Baku, Azerbaijan**.
 
 ---
 

@@ -17,6 +17,7 @@ By using Mirrorly, you agree to the collection and use of information in accorda
 - This identifier is **not linked to your personal identity** (no email, name, or account required)
 - The identifier **persists even if you delete and reinstall the App**
 - If you change devices or factory reset, a new identifier is created and previous data cannot be accessed
+- **Network Information**: We collect your IP address and network status to monitor for suspicious activity, prevent abuse (rate limiting), and ensure secure connectivity.
 
 ### Usage Data
 - **Try-On History**: Images you upload and virtual try-on results are stored to provide you with your wardrobe history.
@@ -36,6 +37,7 @@ We use the collected information to:
 - Process your credit purchases
 - Store your try-on history
 - Improve our AI technology and user experience
+- **Security & Fraud Prevention**: Monitor and block suspicious activities, credit farming, and unauthorized access attempts.
 
 ---
 
