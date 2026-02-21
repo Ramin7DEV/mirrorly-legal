@@ -17,7 +17,6 @@ By using Mirrorly, you agree to the collection and use of information in accorda
 - This identifier is **not linked to your personal identity** (no email, name, or account required)
 - The identifier **persists even if you delete and reinstall the App**
 - If you change devices or factory reset, a new identifier is created and previous data cannot be accessed
-- **Network Information**: We collect your IP address and network status to monitor for suspicious activity, prevent abuse (rate limiting), and ensure secure connectivity.
 
 ### Usage Data
 - **Try-On History**: Images you upload and virtual try-on results are stored to provide you with your wardrobe history.
@@ -37,7 +36,8 @@ We use the collected information to:
 - Process your credit purchases
 - Store your try-on history
 - Improve our AI technology and user experience
-- **Security & Fraud Prevention**: Monitor and block suspicious activities, credit farming, and unauthorized access attempts.
+- **Enforce our Terms of Service**: We may monitor usage to prevent abuse, such as the generation of deepfakes, Non-Consensual Intimate Imagery (NCII), or terms violations.
+- **Legal Compliance**: We may share your device identifier, IP address, and usage logs with law enforcement authorities if we believe in good faith that you have engaged in illegal activities.
 
 ---
 
@@ -87,9 +87,9 @@ You have the right to:
 
 ---
 
-## Children's Privacy
+## Age Requirement
 
-Mirrorly is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+Mirrorly is strictly for users who are 18 years of age or older (or the age of legal majority in their jurisdiction). We do not knowingly collect personal information from individuals under 18. If we become aware that we have collected information from someone under 18, we will take steps to securely delete such data immediately.
 
 ---
 
