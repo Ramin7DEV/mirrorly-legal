@@ -151,7 +151,7 @@ These Terms shall be governed by and construed in accordance with the laws appli
 
 ## Contact Us
 
-For questions about these Terms:
+For questions about these Terms, or **to report any inappropriate content or violations**:
 
 **Email**: appmirrorlyapp@gmail.com
 
