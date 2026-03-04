@@ -56,7 +56,7 @@ We use the following third-party services:
 - **Privacy Policy**: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
 ### EachLabs AI
-- **Purpose**: Virtual try-on image processing
+- **Purpose**: Virtual try-on image processing (Nano Banana 2 Edit)
 - **Data Shared**: Uploaded images for AI processing
 - **Note**: Images are processed and not permanently stored by EachLabs
 
