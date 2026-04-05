@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: January 29, 2026**
+**Last Updated: April 5, 2026**
 
 ## Introduction
 
@@ -26,6 +26,39 @@ By using Mirrorly, you agree to the collection and use of information in accorda
 - **Human Photos**: Photos you upload for virtual try-on.
 - **Garment Images**: Clothing or accessory images you upload or select.
 - **Result Images**: AI-generated try-on results.
+
+---
+
+## Face & Biometric Data
+
+### What Face Data We Collect
+When you upload a photo for virtual try-on, your image may contain **facial features** (e.g., face shape, facial structure). We collect this image solely for the purpose of generating virtual try-on results.
+
+### How Face Data Is Used
+- Your photo (including facial features) is used **exclusively** to generate AI-powered virtual try-on results — showing how clothing or accessories would look on you.
+- We do **NOT** use facial features for biometric identification, facial recognition, or creating facial profiles.
+- We do **NOT** extract, analyze, or store facial geometry or biometric identifiers separately from your uploaded photo.
+- Face data is **never** used for advertising, profiling, or any purpose other than virtual try-on.
+
+### Who Face Data Is Shared With
+Your photo (including facial features) is sent to **EachLabs AI** (a third-party AI service) for processing. See the "Third-Party AI Processing" section below for full details.
+
+### Where Face Data Is Stored
+- **On our servers**: Your uploaded photos and AI-generated results are stored on Supabase private servers with encryption. Only you can access your images via signed URLs.
+- **EachLabs**: Your images are processed temporarily by EachLabs during the AI try-on generation. EachLabs retains data as long as necessary to deliver the service and does not permanently store your images after processing is complete.
+
+### How Long Face Data Is Retained
+- **Your images on our servers**: Retained until you delete them from your wardrobe or delete your account. Upon account deletion, all images are permanently removed within 30 days.
+- **EachLabs processing**: Images are processed in real-time and are not permanently stored by EachLabs after processing is complete.
+
+### User Consent
+Before any images are sent to our AI provider for the first time, the App **explicitly asks for your consent** through an in-app disclosure screen. This screen clearly explains:
+- What data is sent (your photo, including facial features)
+- Who it is sent to (EachLabs AI)
+- How it is used (virtual try-on processing)
+- How it is stored and retained
+
+You must tap "I Agree & Continue" before any data is transmitted. If you decline, no data is sent.
 
 ---
 
@@ -55,26 +88,35 @@ We use the following third-party services:
 - **Data Shared**: Purchase transactions, device identifier
 - **Privacy Policy**: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-### EachLabs AI
-- **Purpose**: Virtual try-on image processing (Nano Banana 2 Edit)
-- **Data Shared**: Uploaded images for AI processing
-- **Note**: Images are processed and not permanently stored by EachLabs
+### EachLabs AI (Third-Party AI Processing)
+- **Purpose**: Virtual try-on image processing using AI (Nano Banana 2 Edit API)
+- **Data Sent**: Your uploaded photo (including facial features) and garment/accessory image
+- **How Data Is Processed**: Images are sent via HTTPS encryption to EachLabs servers, where AI generates a virtual try-on result image
+- **Data Retention by EachLabs**: EachLabs retains information as long as necessary to deliver the service. Images are processed in real-time and are not permanently stored after processing
+- **Data Protection**: EachLabs commits to using reasonable and appropriate measures to keep content confidential and protected from unauthorized access (see [EachLabs Privacy Policy](https://eachlabs.ai/privacy-policy))
+- **User Consent**: The App asks for explicit user consent before sending any data to EachLabs for the first time
+- **Contact**: For data protection inquiries to EachLabs: support@eachlabs.ai
 
 ---
 
 ## Data Storage and Security
 
-- Your images and data are stored securely on Supabase servers
-- We use industry-standard encryption for data transmission
-- Device identifiers are stored in your device's secure Keychain
+- Your images and data are stored securely on Supabase private servers
+- All image storage buckets are **private** — images are accessible only via time-limited signed URLs
+- We use industry-standard HTTPS encryption for all data transmission
+- Device identifiers are stored in your device's secure Keychain with `.whenUnlockedThisDeviceOnly` protection
+- All API communications between the App and our servers use JWT authentication
 
 ---
 
 ## Data Retention
 
-- **Try-On History**: Retained until you delete it from your wardrobe
+- **Uploaded Photos**: Retained on our servers until you delete them from your wardrobe or delete your account
+- **Try-On Results**: Retained until you delete them from your wardrobe or delete your account
+- **AI Processing (EachLabs)**: Images are processed temporarily and not permanently stored by EachLabs
 - **Account Data**: Retained as long as you use the App
-- **Deleted Data**: Permanently removed from our servers within 30 days
+- **Deleted Data**: Permanently removed from our servers within 30 days of deletion
+- **Account Deletion**: Full data removal including all images, try-on history, transactions, and user records
 
 ---
 
@@ -84,6 +126,8 @@ You have the right to:
 - **Access**: View all your stored try-on history in the App
 - **Delete**: Remove individual try-ons from your wardrobe
 - **Data Portability**: Download your result images to your device
+- **Account Deletion**: Permanently delete your account and all associated data from within the App
+- **Withdraw Consent**: You may stop using the virtual try-on feature at any time; however, previously processed data will remain until you delete it
 
 ---
 
