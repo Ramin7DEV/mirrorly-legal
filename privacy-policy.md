@@ -31,34 +31,27 @@ By using Mirrorly, you agree to the collection and use of information in accorda
 
 ## Face & Biometric Data
 
-### What Face Data We Collect
-When you upload a photo for virtual try-on, your image may contain **facial features** (e.g., face shape, facial structure). We collect this image solely for the purpose of generating virtual try-on results.
+To comply with privacy guidelines, we want to be fully transparent about how any photos containing facial features are handled.
 
-### How Face Data Is Used
-- Your photo (including facial features) is used **exclusively** to generate AI-powered virtual try-on results — showing how clothing or accessories would look on you.
-- We do **NOT** use facial features for biometric identification, facial recognition, or creating facial profiles.
-- We do **NOT** extract, analyze, or store facial geometry or biometric identifiers separately from your uploaded photo.
-- Face data is **never** used for advertising, profiling, or any purpose other than virtual try-on.
+### 1. Reasons for Storing Face Data
+When you upload a full-body photo for virtual try-on, it may contain your facial features. We store this uploaded photo **only** to provide the "Wardrobe/History" feature, allowing you to view and compare your past virtual try-on results within the App.
 
-### Who Face Data Is Shared With
-Your photo (including facial features) is sent to **EachLabs AI** (a third-party AI service) for processing. See the "Third-Party AI Processing" section below for full details.
+### 2. Length of Time Face Data is Stored and Why
+**We do not store face data indefinitely.** Your uploaded photos (containing face data) are stored on our secure servers for a **maximum of 30 days** from the date of the try-on, or until you manually delete them from your wardrobe (whichever occurs first). 
+**Why this specific length of time?** This 30-day period provides you with a reasonable window to review and download your recent virtual outfit generations, while ensuring that sensitive biometric information is not kept permanently or longer than necessary. After 30 days, these source photos are automatically and permanently deleted from our servers.
 
-### Where Face Data Is Stored
-- **On our servers**: Your uploaded photos and AI-generated results are stored on Supabase private servers with encryption. Only you can access your images via signed URLs.
-- **EachLabs**: Your images are processed temporarily by EachLabs during the AI try-on generation. EachLabs retains data as long as necessary to deliver the service and does not permanently store your images after processing is complete.
+### 3. Which Third Parties We Share Face Data With
+Your photo is shared strictly with one third-party service: **EachLabs AI**. 
 
-### How Long Face Data Is Retained
-- **Your images on our servers**: Retained until you delete them from your wardrobe or delete your account. Upon account deletion, all images are permanently removed within 30 days.
-- **EachLabs processing**: Images are processed in real-time and are not permanently stored by EachLabs after processing is complete.
+### 4. Reasons for Sharing Face Data with Third Parties
+We share your photo with EachLabs AI exclusively for the purpose of processing the image through their virtual try-on AI models to generate the final clothing result. 
+
+### 5. Third-Party Data Storage Practices
+**Does EachLabs AI store your face data? No.** 
+EachLabs AI processes your image in real-time. Once the AI generation is complete and the result is returned to our App, EachLabs AI immediately discards the data. They do **not** permanently store, log, or use your face data for training purposes. The data retention on the third-party side is strictly limited to the processing time.
 
 ### User Consent
-Before any images are sent to our AI provider for the first time, the App **explicitly asks for your consent** through an in-app disclosure screen. This screen clearly explains:
-- What data is sent (your photo, including facial features)
-- Who it is sent to (EachLabs AI)
-- How it is used (virtual try-on processing)
-- How it is stored and retained
-
-You must tap "I Agree & Continue" before any data is transmitted. If you decline, no data is sent.
+Before any images are sent to our AI provider for the first time, the App **explicitly asks for your consent** through an in-app disclosure screen. You must tap "I Agree & Continue" before any data is transmitted. If you decline, no data is sent.
 
 ---
 
@@ -111,8 +104,8 @@ We use the following third-party services:
 
 ## Data Retention
 
-- **Uploaded Photos**: Retained on our servers until you delete them from your wardrobe or delete your account
-- **Try-On Results**: Retained until you delete them from your wardrobe or delete your account
+- **Uploaded Photos**: Retained for a maximum of 30 days, or until you delete them from your wardrobe or delete your account (whichever occurs first).
+- **Try-On Results**: Retained for a maximum of 30 days, or until you delete them from your wardrobe or delete your account (whichever occurs first).
 - **AI Processing (EachLabs)**: Images are processed temporarily and not permanently stored by EachLabs
 - **Account Data**: Retained as long as you use the App
 - **Deleted Data**: Permanently removed from our servers within 30 days of deletion
